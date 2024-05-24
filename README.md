@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Header](https://github.com/justincarr010101/justincarr010101/blob/main/content/github-header-image.png)
 
 Here are some ideas to get you started:
