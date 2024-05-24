@@ -1,7 +1,7 @@
 ![Header](https://github.com/justincarr010101/justincarr010101/blob/main/content/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Justin Carr</h1>
-<h3 align="center">A passionate Computer Engineering graduate, working towards a tech</h3>
+<h3 align="center">A passionate Computer Engineering graduate, working towards a software developer position</h3>
 
 - 🔭 I’m currently working on [Discord-bot](https://github.com/justincarr010101/Discord_Bot)
 
