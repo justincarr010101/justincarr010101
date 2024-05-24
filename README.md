@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS framework and docker**
 
-- 👨‍💻 All of my info is [My Portfolio](https://justincarr.me)
+- 👨‍💻 All of my info can be found on [My Portfolio](https://justincarr.me)
 
 - 📫 How to reach me **justinwcarr20@gmail.com**
 
