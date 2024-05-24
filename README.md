@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Header]([./your-header-image-name.png](https://github.com/justincarr010101/justincarr010101/blob/main/content/github-header-image.png))
+![Header](https://github.com/justincarr010101/justincarr010101/blob/main/content/github-header-image.png)
 
 Here are some ideas to get you started:
 
