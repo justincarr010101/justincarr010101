@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Justin Carr</h1>
 <h3 align="center">A passionate Computer Engineering graduate, working towards a software developer position</h3>
 
-- 🔭 I’m currently working on [Discord-bot](https://github.com/justincarr010101/Discord_Bot), to improve javascript skills and learna about docker and CI/CD.
+- 🔭 I’m currently working on [Discord-bot](https://github.com/justincarr010101/Discord_Bot) and [Cactus](https://github.com/Cactus-org). Improving docker, javascript, react, and CI/CD skills along with anything else I can take on to improve.
 
 - 🌱 I’m currently learning **react native and docker**
 
