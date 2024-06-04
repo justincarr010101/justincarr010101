@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Justin Carr</h1>
 <h3 align="center">A passionate Computer Engineering graduate, working towards a software developer position</h3>
 
-- 🔭 I’m currently working on [Discord-bot](https://github.com/justincarr010101/Discord_Bot)
+- 🔭 I’m currently working on [Discord-bot](https://github.com/justincarr010101/Discord_Bot), to improve javascript skills and learna about docker and CI/CD.
 
-- 🌱 I’m currently learning **AWS framework and docker**
+- 🌱 I’m currently learning **react native and docker**
 
 - 👨‍💻 All of my info can be found on [My Portfolio](https://justincarr.me)
 
